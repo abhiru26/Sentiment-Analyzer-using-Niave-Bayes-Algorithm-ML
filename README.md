@@ -1,1 +1,2 @@
-# Sentiment-Analyzer-using-Niave-Bayes-Algorithm-ML
+# movie-sentiment-analysis
+Movie sentiment analysis
